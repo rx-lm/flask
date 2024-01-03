@@ -2,4 +2,4 @@ Flask
 Gunicorn
 Numpy
 Joblib
-sklearn
+scikit-learn
