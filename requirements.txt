@@ -3,5 +3,4 @@ Gunicorn
 Numpy
 Joblib
 Scikit-learn
-Scikit
 Sklearn
